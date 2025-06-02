@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="8ad29736-ad42-4d2e-a5d5-ffc271ca9fa4" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../config-server-unir/config-server/src/main/resources/application.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/eureka-server/src/main/resources/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../config-server/config-server/.gitattributes" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../config-server/config-server/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../config-server/config-server/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../config-server/config-server/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../config-server/config-server/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../config-server/config-server/gradlew" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../config-server/config-server/gradlew.bat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../config-server/config-server/settings.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../config-server/config-server/src/main/java/com/backend/config_server/ConfigServerApplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../config-server/config-server/src/main/resources/application.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../config-server/config-server/src/test/java/com/backend/config_server/ConfigServerApplicationTests.java" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;ferchounisangil&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/ferchounisangil/unir-backend&quot;,
+    &quot;accountId&quot;: &quot;587b50c3-5646-43a0-8561-9ded31765dff&quot;
+  }
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 5
+}</component>
+  <component name="ProjectId" id="2xvaNSuIG8NTDqb3P1Ee1KhTGIN" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "D:/Descargas/Esp software/Plataforma de desarrollo/backend/eureka-server",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0",
+    "settings.editor.selected.configurable": "preferences.lookFeel"
+  }
+}]]></component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8ad29736-ad42-4d2e-a5d5-ffc271ca9fa4" name="Changes" comment="" />
+      <created>1748820960978</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1748820960978</updated>
+    </task>
+    <servers />
+  </component>
+</project>
